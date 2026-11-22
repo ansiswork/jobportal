@@ -1,0 +1,10 @@
+package com.example.jobportal.entity;
+
+public class JobApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
